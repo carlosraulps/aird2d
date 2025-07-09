@@ -170,7 +170,7 @@ def main():
 
     # ASE example usage:
     ase_db = ase_connect(db_path)
-    # atoms = ase_db.get_atoms(system_id=1)  # Uncomment and set a valid ID
+     atoms = ase_db.get_atoms(system_id=1)  # Uncomment and set a valid ID
 
 if __name__ == '__main__':
     main()

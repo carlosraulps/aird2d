@@ -1,4 +1,7 @@
 databases/c2db.db
 databases/c2db.tar.gz
 backup
+results/features*
+results/materials_features.csv
+results/composition_model.joblib
 references
