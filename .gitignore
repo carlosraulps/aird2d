@@ -5,3 +5,4 @@ results/features*
 results/materials_features.csv
 results/composition_model.joblib
 references
+wheels
